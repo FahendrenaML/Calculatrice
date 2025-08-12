@@ -7,10 +7,9 @@ Une petite calculatrice en console supporte addition, soustraction, multiplicati
 - Multiplication (`*`)
 - Division (`/`) avec gestion de la division par zéro
 
-## Complation 
+## Compilation 
 ```bash
 gcc calculatrice.c -o calculatrice
 
 ## Exécution
-```bash
 ./calculatrice
