@@ -12,4 +12,5 @@ Une petite calculatrice en console supporte addition, soustraction, multiplicati
 gcc calculatrice.c -o calculatrice
 
 ## Exécution
+```bash
 ./calculatrice
